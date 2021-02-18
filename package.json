@@ -32,7 +32,7 @@
   },
   "dependencies": {
     "linkify-it": "^2.0.3",
-    "tlds": "^1.199.0"
+    "tlds": "^1.216.0"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
